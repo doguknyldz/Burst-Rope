@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Rope Physics and Mesh Simulation with Unity Burst & Spline</h1>
+<h1>2D Rope Physics and Mesh Simulation</h1>
 <h2>Packages</h2>
 <b>Burst</b> (com.unity.burst) -v1.8.11
 <br/>
